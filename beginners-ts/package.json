@@ -1,0 +1,25 @@
+{
+  "name": "beginners-ts",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "typescript",
+    "vitest"
+  ],
+  "author": "Aldo R. Robles",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "jsdom": "^22.1.0",
+    "typescript": "^5.0.4",
+    "vite-tsconfig-paths": "^4.2.0",
+    "vitest": "^0.31.2"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.1.6"
+  }
+}
